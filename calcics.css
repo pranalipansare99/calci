@@ -1,0 +1,67 @@
+.calciarea{
+    border-radius:15px;
+   background-color:skyblue;
+    padding:30 px;
+     display:inline-block;
+    height:650px;
+    width:750px;
+  /*   margin-left:600px; */
+    border-radius:35px;
+  }
+  
+  .displayarea{
+    height:100px;
+    width:620px;
+    border-color:black;
+   background-color: lightyellow;
+    margin-left:50px;
+    margin-top:40px;
+    border:solid black;
+  }
+  
+  .buttonarea{
+    height:100px;
+    width:120px;
+    margin-top:20px;
+    margin-left:45px;
+     cursor: pointer;
+    font-size:60px;
+    border:2px solid black;
+    border-radius:5px;
+    background-color:black;
+    color:white;
+    border-radius:50px;
+  }
+  
+  .otherarea{
+      height:100px;
+    width:120px;
+    margin-top:20px;
+    margin-left:45px;
+    margin-right:45px;
+    font-size:60px;
+    background-color:yellow;
+      border:solid black;
+    border-radius:50px;
+  }
+  
+  .cleararea{
+      height:100px;
+    width:120px;
+    margin-top:20px;
+    margin-left:45px;
+    font-size:60px;
+    background-color:pink;
+    border-radius:50px;
+  }
+  
+  .equalarea{
+    background-color:pink;
+    color:black;
+      height:100px;
+    width:120px;
+    margin-top:20px;
+    margin-left:45px;
+    font-size:60px;
+    border-radius:50px;
+  }
